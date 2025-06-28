@@ -1,0 +1,21 @@
+/*
+iffy◒
+s9a.page/iffy color typhoon
+webmural.com/iffy thxyz hue
+*/
+.iyff {filter:hue-rotate(108deg)}
+.ffiy {filter:hue-rotate(288deg)}
+.ffyi {filter:hue-rotate(144deg)}
+.yiff {filter:hue-rotate(-144deg)}
+.iffy {fill:var(--iffy);stroke:var(--yffi)}
+.yffi {fill:var(--yffi);stroke:var(--iffy)}
+.iffy.iffy {background-color:var(--iffy);color:var(--yffi)}
+.yffi.yffi {background-color:var(--yffi);color:var(--iffy)}
+.iffy ::selection {color:var(--iffy);background:var(--else)}
+.yffi ::selection {color:var(--yffi);background:var(--else)}
+.iffy *{background-color:transparent;color:unset;--else:aquamarine}
+.yffi *{background-color:transparent;color:unset;--else:dodgerblue}
+*{--iffy:darkviolet;--yffi:lemonchiffon}
+@media (prefers-color-scheme:dark){*{--yffi:khaki}}
+@media (prefers-contrast:more){*{--iffy:indigo}}
+@media (prefers-contrast:less){*{--yffi:peachpuff}}
